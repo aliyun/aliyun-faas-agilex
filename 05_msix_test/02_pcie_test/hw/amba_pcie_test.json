@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "afu-image": {
+       "power": 0,
+       "clock-frequency-high": 400,
+       "clock-frequency-low": 200,
+       "afu-top-interface":
+          {
+             "name": "AMBA"
+          },
+       "accelerator-clusters":
+          [
+             {
+                "name": "pcie_test",
+                "total-contexts": 1,
+		        "accelerator-type-uuid": "6666954a-9b91-4a37-abc1-1d9f07096666"
+             }
+          ]
+    }
+ }

@@ -1,0 +1,23 @@
+
+ {
+   "version": 1,
+   "afu-image": {
+      "power": 0,
+      "interface-uuid": "a8e5df1e-9f31-11e7-8158-847bebdbf5a0",
+      "clock-frequency-high": 400,
+      "clock-frequency-low": 200,
+      "afu-top-interface":
+         {
+            "name": "AMBA"
+         },
+      "accelerator-clusters":
+         [
+            {
+               "name": "ddr_test",
+               "total-contexts": 1,
+               "accelerator-type-uuid": "a78438f1-1d0e-4c3e-abe0-2ca59ba8814a"
+            }
+         ]
+   },
+   "platform-name": "aliyun-f5"
+}

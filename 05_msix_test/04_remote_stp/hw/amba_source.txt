@@ -1,0 +1,2 @@
+./rtl/amba/user_logic.sv
+./rtl/alite.stp

@@ -1,0 +1,1 @@
+set_global_assignment -name OPTIMIZATION_MODE "HIGH PERFORMANCE EFFORT"
