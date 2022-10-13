@@ -16,6 +16,10 @@ Updating / installing...
 ## EDA工具安装
 用户需安装Intel Quartus开发套件，版本为22.1。
 
+## Shell版本
+版本号:f503f429
+版本日期:20220908
+
 ## 命令行工具
 在安装完FaaS HDK RPM包工具安装后，用户可通过faasRtlUtil.sh进行工程的创建，运行及删除：
 ```bash
